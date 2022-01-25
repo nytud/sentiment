@@ -2,7 +2,7 @@
 
 This repository contains our sentence-level sentiment analysis models which were published in [MSZNY 2022](https://rgai.inf.u-szeged.hu/mszny2022) conference.
 
-Modelfiles are available in: https://nc.nlp.nytud.hu/s/p23BsM5RrYMkM7S
+Modelfiles are available in: https://nc.nlp.nytud.hu/s/pwR8CnCCXWTg6Zb
 
 # License and usage
 The corpus is available under the license CC-BY-SA 4.0. If you use this corpus, please cite our paper (see below).
