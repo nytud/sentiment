@@ -15,10 +15,13 @@ If you use this resource or any part of its documentation, please refer to:
 Laki, László János and Yang, Zijian Győző (2022) Mondatszintű szentiment analízis teljesítményének javítása adatkiterjesztéses eljárásokkal [Improving Performance of Sentence-level Sentiment Analysis with Data Augmentation Methods]. XVIII. Magyar Számítógépes Nyelvészeti Konferencia. (in press)
 
 ```
-@inproceedings{mszny_2022_sent,
-  title={Mondatszintű szentiment analízis teljesítményének javítása adatkiterjesztéses eljárásokkal},
-  author={Laki, László János and Yang, Zijian Győző},
-  booktitle={XVIII. Magyar Számítógépes Nyelvészeti Konferencia},
-  year={2022}
+@inproceedings {yang-bart,
+    title = {Improving Performance of Sentence-level Sentiment Analysis with Data Augmentation Methods},
+    booktitle = {Proceedings of 12th IEEE International Conference on Cognitive Infocommunications (CogInfoCom 2021)},
+    year = {2021},
+    publisher = {IEEE},
+    address = {Online},
+    author = {{Laki, László and Yang, Zijian Győző}}
+    pages = {417--422}
 }
 ```
